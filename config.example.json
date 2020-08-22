@@ -1,0 +1,7 @@
+{
+  "connect_url": "",
+  "connect_secret": "",
+  "modules": [
+    "system","wallet"
+  ]
+}
