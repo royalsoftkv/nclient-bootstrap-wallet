@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nclient-lib": "git+https://github.com/royalsoftkv/nclient-lib.git",
-    "nclient-module-system": "git+https://github.com/royalsoftkv/nclient-module-system.git",
-    "nclient-module-wallet": "git+https://github.com/royalsoftkv/nclient-module-wallet.git"
+    "nclient-lib": "http://159.69.2.203:3030/nclient-lib.tgz",
+    "nclient-module-system": "http://159.69.2.203:3030/nclient-module-system.tgz",
+    "nclient-module-wallet": "http://159.69.2.203:3030/nclient-module-wallet.tgz"
   },
   "devDependencies": {
-    "forever": "^3.0.0"
+    "forever": "^3.0.4"
   }
 }
