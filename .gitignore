@@ -1,0 +1,6 @@
+/app/configs/
+/config.json
+/device.json
+/.idea/
+/nclient-bootstrap-wallet.tar.gz
+/package-lock.json
